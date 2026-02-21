@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://github.com/tvoje-jmeno/tvoje-jmeno/raw/main/assets/welcome.gif" width="800" alt="Vítejte na mém profilu!" />
   <br><br>
-  <h1>Ahoj! Já jsem [Tvoje Jméno / Přezdívka] 🚀</h1>
+  <h1>Ahoj! Já jsem Axel 🚀</h1>
   
   <p>
     <strong>Full-stack vývojář | Python & TypeScript nadšenec | open-source milovník</strong><br>
@@ -45,7 +45,7 @@
   </table>
 </div>
 
-- 🔭 Momentálně pracuji na …  
+- 🔭 Momentálně pracuji na fundementalní teorii vseho, Jarvis ai  
 - 🌱 Učím se …  
 - 👯 Hledám spolupráci na …  
 - 💬 Zeptej se mě na cokoliv ohledně …  
