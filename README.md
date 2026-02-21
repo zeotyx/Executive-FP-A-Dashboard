@@ -54,12 +54,13 @@
 ## 📊 Moje statistiky
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tvoje-jmeno&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="github stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tvoje-jmeno&theme=radical&hide_border=true" width="48%" alt="streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zeotyx&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeotyx&theme=dracula&hide_border=true" width="48%" alt="Contribution streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tvoje-jmeno&layout=compact&theme=radical&hide_border=true&langs_count=8" width="60%" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeotyx&layout=compact&theme=dracula&hide_border=true&langs_count=8" width="60%" alt="Top languages" />
 </div>
 
 <br>
@@ -95,9 +96,9 @@
 <br>
 
 <div align="center">
-  <img src="https://github.com/tvoje-jmeno/tvoje-jmeno/raw/main/assets/thanks.gif" width="400" alt="Díky za návštěvu!" />
+  <sub>Díky, že jsi sem zavítal! ⭐ Dej hvězdičku repozitářům, pokud se ti něco líbí 😄</sub>
   <br><br>
-  <sub>Poslední aktualizace: Únor 2026</sub>
+  <img src="https://github.com/zeotyx/zeotyx/raw/main/assets/thanks.gif" width="400" alt="Díky za návštěvu!" />
 </div>
 
-<!-- konec souboru – můžeš přidat ještě nějaký secret easter egg dole 😄 -->
+
