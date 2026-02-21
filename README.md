@@ -13,7 +13,7 @@
   <!-- odznaky / statistiky – volitelné, ale vypadá to pěkně -->
   <p>
     <img src="https://komarev.com/ghpvc/?username=tvoje-jmeno&label=Profil%20zobrazení&color=0e75b6&style=flat-square" alt="Profil views" />
-    <a href="https://github.com/tvoje-jmeno?tab=repositories&sort=stargazers">
+    <a href="https://github.com/zeotyx?tab=repositories&sort=stargazers">
       <img src="https://img.shields.io/github/stars/tvoje-jmeno?label=Stars&style=flat-square&color=yellow" alt="GitHub stars" />
     </a>
   </p>
