@@ -68,7 +68,7 @@
 ## 🛠️ Technologie, se kterými pracuji
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,react,git,linux,vscode&perline=7" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=python,git,linux,vscode&perline=7" alt="skills" />
 </div>
 
 <br>
