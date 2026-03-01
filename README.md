@@ -23,27 +23,6 @@ Momentálně tvořím Jarvis asistent (inspirace z filmu Ironman), chtel bych do
 
 ## 🛠️ Co aktuálně tvořím / nejvíc mě baví
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <a href="https://github.com/tvoje-jmeno/super-projekt">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=tvoje-jmeno&repo=super-projekt&theme=radical" alt="super-projekt" />
-        </a>
-      </td>
-      <td align="center" width="33%">
-        <a href="https://github.com/tvoje-jmeno/ai-chatbot">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=tvoje-jmeno&repo=ai-chatbot&theme=dracula" alt="ai-chatbot" />
-        </a>
-      </td>
-      <td align="center" width="33%">
-        <a href="https://github.com/tvoje-jmeno/dotfiles">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=tvoje-jmeno&repo=dotfiles&theme=onedark" alt="dotfiles" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
 
 - 🔭 Momentálně pracuji na fundementalní teorii vseho, Jarvis ai, C# calculator(will contain every physics,math, chemistry and biology field), IPX hacking tool
 - 🌱 Učím se C#, Python, Lua, zacinam s C, Cybersecurity
