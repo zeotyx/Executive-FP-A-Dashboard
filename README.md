@@ -19,10 +19,6 @@
 </div>
 ## 📌 Overview
 
-<br>
-Executive-FP-A-Dashboard is a Power BI dashboard designed to help you track and analyze your financial planning and analysis (FP&A) data. It offers tools like revenue vs budget comparison, variance waterfall charts, cash flow tracking, and a rolling 3-month forecast. This application helps businesses make sense of financial numbers in clear, visual ways.
-
-You don’t need to write any code or understand complex software. Just download and open the dashboard to start exploring your financial data.
 
 - 🔭 Momentálně pracuji na fundementalní teorii vseho, Jarvis ai, C# calculator(will contain every physics,math, chemistry and biology field), IPX hacking tool
 - 🌱 Učím se C#, Python, Lua, zacinam s C, Cybersecurity
@@ -32,14 +28,13 @@ You don’t need to write any code or understand complex software. Just download
 ---
 
 ## 📊 Moje statistiky
-## 🚀 Getting Started
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zeotyx&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub stats" />
   &nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeotyx&theme=dracula&hide_border=true" width="48%" alt="Contribution streak" />
 </div>
-This guide will walk you through downloading, installing, and opening the Executive-FP-A-Dashboard with simple steps. You’ll learn how to:
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeotyx&layout=compact&theme=dracula&hide_border=true&langs_count=8" width="60%" alt="Top languages" />
